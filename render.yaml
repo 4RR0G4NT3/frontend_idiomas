@@ -1,6 +1,7 @@
 services:
-  - type: static
+  - type: web
     name: front-idiomas
+    runtime: static
     buildCommand: npm install && npm run build
     publishPath: dist/webapp/browser
     routes:
