@@ -1,0 +1,112 @@
+.container {
+  padding: 3rem 1.5rem;
+  max-width: 800px;
+}
+
+.header-section {
+  margin-bottom: 2.5rem;
+}
+
+.top-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.title-container h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.progress-info {
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.lesson-list {
+  padding: 0;
+  overflow: hidden;
+}
+
+.lesson-item {
+  display: flex;
+  align-items: center;
+  padding: 1.25rem 1.5rem;
+  border-bottom: 1px solid var(--border-color);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  gap: 1.5rem;
+}
+
+.lesson-item:last-child {
+  border-bottom: none;
+}
+
+.lesson-item:hover {
+  background: var(--light-color);
+  padding-left: 1.75rem;
+}
+
+.status-indicator {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: var(--light-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  color: var(--text-muted);
+  flex-shrink: 0;
+  transition: all 0.3s ease;
+}
+
+.is-completed .status-indicator {
+  background: var(--success-color);
+  color: white;
+}
+
+.lesson-info {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text-color);
+  margin-bottom: 0.25rem;
+}
+
+.status-text {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.is-completed .status-text {
+  color: var(--success-color);
+}
+
+.arrow {
+  color: var(--border-color);
+  font-size: 1.2rem;
+  transition: transform 0.2s ease;
+}
+
+.lesson-item:hover .arrow {
+  transform: translateX(5px);
+  color: var(--primary-color);
+}
+
+.empty-state {
+  text-align: center;
+  padding: 5rem 2rem;
+  color: var(--text-muted);
+}
+
+.empty-icon {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}

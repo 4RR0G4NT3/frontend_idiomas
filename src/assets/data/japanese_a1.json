@@ -1,0 +1,38 @@
+[
+  {
+    "id": "saludos",
+    "title": "1) Saludos, presentación e información personal",
+    "content": [],
+    "completed": false
+  },
+  {
+    "id": "numeros",
+    "title": "2) Números, tiempo y fechas",
+    "content": [],
+    "completed": false
+  },
+  {
+    "id": "pronombres",
+    "title": "3) Pronombres",
+    "content": [],
+    "completed": false
+  },
+  {
+    "id": "descripciones",
+    "title": "4) Descripciones",
+    "content": [],
+    "completed": false
+  },
+  {
+    "id": "rutina",
+    "title": "5) Rutina diaria y hábitos",
+    "content": [],
+    "completed": false
+  },
+  {
+    "id": "situaciones",
+    "title": "6) Situaciones cotidianas",
+    "content": [],
+    "completed": false
+  }
+]

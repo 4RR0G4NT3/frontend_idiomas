@@ -1,0 +1,41 @@
+<div class="container" *ngIf="lessonData$ | async as data">
+  <div class="header-section">
+    <button [routerLink]="['/', data.langId, data.levelId]" class="btn btn-light back-btn">
+      ← Volver a la lista de lecciones
+    </button>
+    <div class="lesson-header">
+      <div class="lesson-badge">Lección</div>
+      <h1>{{ data.lesson?.title }}</h1>
+    </div>
+  </div>
+
+  <div class="sections-list card" *ngIf="data.lesson">
+    <div class="section-item" 
+         *ngFor="let section of data.lesson.content; let i = index" 
+         [routerLink]="['/', data.langId, data.levelId, data.lesson.id, i]"
+         [class.is-completed]="section.completed">
+      
+      <div class="toggle-container" (click)="toggleSection(data.langId, data.levelId, data.lesson.id, i, $event)">
+        <div class="custom-checkbox" [class.checked]="section.completed">
+          <span *ngIf="section.completed">✓</span>
+        </div>
+      </div>
+
+      <div class="section-icon">
+        {{ section.type === 'table' ? '📊' : '📝' }}
+      </div>
+      
+      <div class="section-info">
+        <h3>{{ section.title }}</h3>
+        <p>{{ section.type === 'table' ? 'Tabla de vocabulario' : 'Texto explicativo' }}</p>
+      </div>
+      
+      <div class="arrow">→</div>
+    </div>
+  </div>
+
+  <div *ngIf="!data.lesson" class="empty-state">
+    <div class="empty-icon">❓</div>
+    <h3>Lección no encontrada</h3>
+  </div>
+</div>

@@ -1,0 +1,16 @@
+<div class="container">
+  <div class="hero">
+    <h1>¿Qué idioma quieres aprender hoy?</h1>
+    <p class="subtitle">Selecciona un idioma para comenzar tu aventura de aprendizaje.</p>
+  </div>
+  
+  <div class="grid">
+    <div class="card language-card" *ngFor="let lang of languages$ | async" [routerLink]="['/', lang.id]">
+      <div class="lang-icon">{{ lang.icon || '🌐' }}</div>
+      <h2>{{ lang.name }}</h2>
+      <div class="lang-stats">
+        <span>{{ lang.levels.length }} Niveles</span>
+      </div>
+    </div>
+  </div>
+</div>

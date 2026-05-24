@@ -1,0 +1,20 @@
+<div class="container" *ngIf="language$ | async as lang">
+  <div class="header-section">
+    <button [routerLink]="['/']" class="btn btn-light back-btn">
+      <span class="icon">←</span> Volver
+    </button>
+    <div class="title-container">
+      <span class="lang-icon">{{ lang.icon }}</span>
+      <h1>{{ lang.name }}</h1>
+    </div>
+    <p class="subtitle">Selecciona el nivel de dificultad para ver las lecciones disponibles.</p>
+  </div>
+  
+  <div class="grid">
+    <div class="card level-card" *ngFor="let level of lang.levels" [routerLink]="['/', lang.id, level.id]">
+      <div class="level-badge">{{ level.id.toUpperCase() }}</div>
+      <h2>Nivel {{ level.name }}</h2>
+      <div class="lesson-count">{{ level.lessonCount || 0 }} Lecciones</div>
+    </div>
+  </div>
+</div>

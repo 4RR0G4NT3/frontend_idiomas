@@ -1,0 +1,86 @@
+[
+  {
+    "id": "english",
+    "name": "Inglés",
+    "icon": "🇺🇸",
+    "levels": [
+      {
+        "id": "a1",
+        "name": "A1",
+        "dataFile": "english_a1.json",
+        "lessonCount": 6,
+        "lessons": []
+      }
+    ]
+  },
+  {
+    "id": "german",
+    "name": "Alemán",
+    "icon": "🇩🇪",
+    "levels": [
+      {
+        "id": "a1",
+        "name": "A1",
+        "dataFile": "german_a1.json",
+        "lessonCount": 6,
+        "lessons": []
+      }
+    ]
+  },
+  {
+    "id": "french",
+    "name": "Francés",
+    "icon": "🇫🇷",
+    "levels": [
+      {
+        "id": "a1",
+        "name": "A1",
+        "dataFile": "french_a1.json",
+        "lessonCount": 6,
+        "lessons": []
+      }
+    ]
+  },
+  {
+    "id": "italian",
+    "name": "Italiano",
+    "icon": "🇮🇹",
+    "levels": [
+      {
+        "id": "a1",
+        "name": "A1",
+        "dataFile": "italian_a1.json",
+        "lessonCount": 6,
+        "lessons": []
+      }
+    ]
+  },
+  {
+    "id": "russian",
+    "name": "Ruso",
+    "icon": "🇷🇺",
+    "levels": [
+      {
+        "id": "a1",
+        "name": "A1",
+        "dataFile": "russian_a1.json",
+        "lessonCount": 6,
+        "lessons": []
+      }
+    ]
+  },
+  {
+    "id": "japanese",
+    "name": "Japonés",
+    "icon": "🇯🇵",
+    "levels": [
+      {
+        "id": "a1",
+        "name": "A1",
+        "dataFile": "japanese_a1.json",
+        "lessonCount": 6,
+        "lessons": []
+      }
+    ]
+  }
+]

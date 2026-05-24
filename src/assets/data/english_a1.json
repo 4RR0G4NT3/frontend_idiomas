@@ -1,0 +1,314 @@
+[
+  {
+    "id": "saludos",
+    "title": "1)Saludos, presentación e información personal",
+    "content": [
+      {
+        "title": "Saludos, despedidas y cortesía",
+        "type": "table",
+        "data": [
+          {
+            "left": "Hello, hi",
+            "right": "Hola"
+          },
+          {
+            "left": "Goodbye, Bye",
+            "right": "Adiós"
+          }
+        ]
+      },
+      {
+        "title": "Presentarse uno mismo y a otros",
+        "type": "text",
+        "data": "Me\nHello, my name is Andres. I am 25 years old and I am from Colombia. I live in Bucaramanga.\nI am a student and I like learning languages, listening to music and playing football. Nice to\nmeet you.\n\nMy friend Laura\nThis is my friend Laura. She is from Mexico and she is 23 years old. She is a teacher and\nshe lives in Monterrey. She likes dancing and reading books. We are good friends.\n\nMy father\nThis is my father. His name is Carlos. He is 52 years old. He is tall and he has short black\nhair. He is an engineer and he works in a big company. He likes reading newspapers and\nwatching football.\n\nMy mother\nThis is my mother. Her name is Maria. She is 48 years old. She is short and she has long\nbrown hair. She is a teacher and she works at a school. She likes cooking and listening to\nmusic.\n\nMy older brother\nThis is my older brother. His name is Juan. He is 28 years old. He is tall and strong. He is a\ndoctor and he works in a hospital. He likes playing basketball and travelling.\n\nMy younger sister\nThis is my younger sister. Her name is Sofia. She is 17 years old. She is beautiful and she\nhas long black hair. She is a student at high school. She likes dancing and using her phone.\n\nMy grandmother\nThis is my grandmother. Her name is Rosa. She is 75 years old. She is small and very kind.\nShe doesn’t work now. She likes watching TV, watering her plants and telling stories.\n\nMy grandfather\nThis is my grandfather. His name is Luis. He is 78 years old. He is short and he has white\nhair. He doesn’t work now. He likes gardening and playing chess.\n\nMy uncle\nThis is my uncle. His name is Pedro. He is 45 years old. He is tall and thin. He is a mechanic\nand he works in a garage. He likes fixing cars and watching movies.\n\nMy aunt\nThis is my aunt. Her name is Ana. She is 42 years old. She is short and friendly. She is a\nnurse and she works in a hospital. She likes baking cakes and shopping.\n\nMy cousin (male)\nThis is my cousin. His name is Diego. He is 19 years old. He is young and tall. He is a\nuniversity student. He likes playing video games and listening to music.\n\nMy cousin (female)\nThis is my cousin. Her name is Camila. She is 16 years old. She is pretty and has long hair.\nShe is a high school student. She likes dancing and taking photos.\n\nMy son\nThis is my son. His name is Mateo. He is 8 years old. He is small and very active. He is a\nstudent. He likes playing football and drawing pictures.\n\nMy daughter\nThis is my daughter. Her name is Emma. She is 5 years old. She is beautiful and has curly\nhair. She goes to kindergarten. She likes playing with dolls and singing.\n\nMy nephew\nThis is my nephew. His name is Lucas. He is 10 years old. He is energetic and smart. He is\na student. He likes riding his bike and playing sports.\n\nMy niece\nThis is my niece. Her name is Isabella. She is 7 years old. She is cute and cheerful. She is a\nstudent. She likes reading stories and painting.\n\nMy brother-in-law\nThis is my brother-in-law. His name is David. He is 30 years old. He is tall and strong. He is\na police officer. He likes running and watching football.\n\nMy sister-in-law\nThis is my sister-in-law. Her name is Laura. She is 29 years old. She is friendly and has\nbrown hair. She is a graphic designer. She likes yoga and travelling.\n\nMy father-in-law\nThis is my father-in-law. His name is Roberto. He is 55 years old. He is serious and\nhardworking. He is a businessman. He likes drinking coffee and reading.\n\nMy mother-in-law\nThis is my mother-in-law. Her name is Carmen. She is 53 years old. She is kind and\ntalkative. She is a housewife. She likes cooking and spending time with family.\n\nMy son-in-law\nThis is my son-in-law. His name is Andrés. He is 26 years old. He is responsible and friendly.\nHe is an architect. He likes playing guitar.\n\nMy daughter-in-law\nThis is my daughter-in-law. Her name is Sofia. She is 24 years old. She is beautiful and\npatient. She is a teacher. She likes reading and taking care of the family."
+      },
+      {
+        "title": "Preguntando y respondiendo preguntas personales",
+        "type": "text",
+        "data": "What’s your name?\nMy name is Andres Mauricio.\n\nHow old are you?\nI am 28 years old.\n\nWhere are you from?\nI am from Colombia. I live in Bucaramanga.\n\nWhat’s your job?\nI am a student. / I work as a graphic designer.\n\nWhat’s your phone number?\nMy phone number is 300-123-4567.\n\nWhat’s your email?\nMy email is andres.mauricio@gmail.com.\n\nWhere do you live?\nI live in Bucaramanga, Colombia.\n\nDo you have brothers or sisters?\nYes, I have one brother and one sister.\n\nAre you married?\nNo, I am single. / Yes, I am married.\n\nWhat do you do in your free time?\nI like listening to music, playing football and learning languages.\n\nDo you have any pets?\nYes, I have a dog. His name is Max.\n\nWhat’s your favourite colour?\nMy favourite colour is blue.\n\nWhat’s your nationality?\n\nI am Colombian.\nDo you speak other languages?\nYes, I speak Spanish and a little English.\n\nWhat do you like doing at the weekend?\nI like going out with my friends and watching movies."
+      },
+      {
+        "title": "Sección extra:",
+        "type": "text",
+        "data": "Hello, my name is Andres. I am Colombian. Excuse me, how are you? I’m fine, thank you.\nAnd you? Nice to meet you. Thank you very much.\n\nThis is my friend James. He is American and he is married. “How are you, James?” “I’m fine,\nthank you. And you?” “I’m very well, thanks.”\n\nGood morning. Excuse me, my name is Laura and I am Spanish. I am single. Nice to meet\nyou. Have a nice day!\n\nThis is my teacher, Mrs. Sophie. She is French and she is married. “How are you today?”\n“I’m fine, thank you. And you?” “No problem, I’m good.”\n\nHello, I am Hiroshi. I am Japanese and I am single. Sorry, can you repeat your name,\nplease? Thank you very much. See you later.\n\nThis is my neighbour, Mr. Rossi. He is Italian and he is divorced. “Good afternoon, how are\nyou?” “I’m fine, thanks. And you?” “You’re welcome.”\n\nHi, my name is Camila. I am Brazilian. I am married and I have two children. Excuse me,\nwhat’s your name? Nice to meet you. Have a nice day!\n\nGood night, Mom. I am going to bed now. “How are you?” “I’m fine, thank you.” “Sleep well.\nSee you tomorrow.”\n\nThis is my British friend, Emma. She is single and she lives in London. “Excuse me, how are\nyou today?” “I’m very well, thanks. And you?”\n\nSorry, I’m late. Hello, my name is Li Wei and I am Chinese. I am married. Thank you for\nwaiting for me. You’re welcome.\n\n“Good evening. How are you?” “I’m fine, thank you. And you?” “I’m okay, thanks.” My name\nis Carlos and I am Colombian.\n\nThis is my aunt Patricia. She is widowed and she is American. She is very kind. “Have a nice\nday, auntie.” “Thank you, dear. See you later.”\n\nExcuse me, please. I am Pierre and I am French. I am single. Nice to meet you. Thank you\nfor your help.\n\nThis is my Italian friend Marco. He is married and he has a big family. “How are you, Marco?”\n“I’m fine, thanks. And you?” “No problem, I’m great.”\n\nGood morning, everyone. My name is Yuna and I am Japanese. I am single. Have a nice\nday and see you tomorrow in class.\n\n“Sorry, can you help me, please?” “Of course. How are you?” “I’m fine, thank you. And you?”\nMy name is Ana and I am Spanish.\n\nThis is my Brazilian colleague, Rafael. He is divorced. “Good afternoon, how are you?” “I’m\nvery well, thanks. You’re welcome.”\n\nHello, I am David. I am British and I am married. Excuse me, what time is it, please? Thank\nyou very much. Have a nice evening.\n\nThis is my Chinese friend, Mei. She is widowed and she lives with her son. “How are you\ntoday?” “I’m fine, thank you. See you later.”\n\nGood night, everyone. My name is Sofia and I am Italian. I am single. Thank you for a lovely\nevening. See you tomorrow and have a nice day!"
+      }
+    ],
+    "completed": false
+  },
+  {
+    "id": "numeros",
+    "title": "2)Números, tiempo y fechas",
+    "content": [
+      {
+        "title": "Abecedario",
+        "type": "text",
+        "data": "ABCDEFGHIJKLMNOPQRSTUVWXYZ\n\nBYDUCHAEOKINFGZPQVTXSLWMJR\n\nSHEBOZRTYDFJULGIWQPVXMACKN\n\nCFGMYSXJQIWULRNVOTPBHEAKDZ\n\nDJHZGXWFYOEARBUQNITMPLCSKV\n\nEAMQJVILTNFOKDHSWZYXRPGUCB\n\nHDSIMLAZWJKONEVTQYRBGFCUPX\n\nBTALPXKHGRQSYVOJCFEZMUIDWN\n\nWIPLDTSVNZKOUJMGHYRFCXBEAQ\n\nEXLPOUYJQANHMFTIDGCZBWVSRK"
+      },
+      {
+        "title": "Números del 0 al 100",
+        "type": "table",
+        "data": [
+          {
+            "left": "0",
+            "right": "zero"
+          },
+          {
+            "left": "1",
+            "right": "one"
+          },
+          {
+            "left": "2",
+            "right": "two"
+          },
+          {
+            "left": "3",
+            "right": "three"
+          },
+          {
+            "left": "4",
+            "right": "four"
+          },
+          {
+            "left": "5",
+            "right": "five"
+          },
+          {
+            "left": "6",
+            "right": "six"
+          },
+          {
+            "left": "7",
+            "right": "seven"
+          },
+          {
+            "left": "8",
+            "right": "eight"
+          },
+          {
+            "left": "9",
+            "right": "nine"
+          },
+          {
+            "left": "10",
+            "right": "ten"
+          },
+          {
+            "left": "11",
+            "right": "eleven"
+          },
+          {
+            "left": "12",
+            "right": "twelve"
+          },
+          {
+            "left": "13",
+            "right": "thirteen"
+          },
+          {
+            "left": "14",
+            "right": "fourteen"
+          },
+          {
+            "left": "15",
+            "right": "fifteen"
+          },
+          {
+            "left": "16",
+            "right": "sixteen"
+          },
+          {
+            "left": "17",
+            "right": "seventeen"
+          },
+          {
+            "left": "18",
+            "right": "eighteen"
+          },
+          {
+            "left": "19",
+            "right": "nineteen"
+          },
+          {
+            "left": "20",
+            "right": "twenty"
+          },
+          {
+            "left": "21",
+            "right": "twenty-one"
+          },
+          {
+            "left": "30",
+            "right": "Thirty"
+          },
+          {
+            "left": "40",
+            "right": "Forty"
+          },
+          {
+            "left": "50",
+            "right": "Fifty"
+          },
+          {
+            "left": "60",
+            "right": "Sixty"
+          },
+          {
+            "left": "70",
+            "right": "Seventy"
+          },
+          {
+            "left": "80",
+            "right": "Eighty"
+          },
+          {
+            "left": "90",
+            "right": "Ninety"
+          },
+          {
+            "left": "100",
+            "right": "One hundred"
+          }
+        ]
+      },
+      {
+        "title": "La hora",
+        "type": "text",
+        "data": "What time is it?\nIt’s three o’clock.\n\nWhat time is it now?\nIt’s half past four.\n\nExcuse me, what time is it?\nIt’s quarter past seven.\n\nDo you know what time it is?\nYes, it’s twenty past nine.\n\nWhat time is it, please?\nIt’s quarter to ten.\n\nWhat’s the time?\nIt’s five to eight.\n\nCan you tell me the time?\nSure, it’s ten past eleven.\n\nWhat time is it right now?\n\nIt’s half past two.\n\nExcuse me, what’s the time?\nIt’s twenty-five to six.\n\nWhat time is it?\nIt’s twelve o’clock.\n\nVariaciones útiles:\n\nIt’s five past three.\nIt’s twenty-five past one.\nIt’s ten to four."
+      },
+      {
+        "title": "Días de la semana",
+        "type": "text",
+        "data": "Today is Monday.\n\nI have English class on Tuesday.\n\nWednesday is my busiest day.\n\nOn Thursday I play football.\n\nFriday is my favourite day.\n\nWe go to the cinema on Saturday.\n\nOn Sunday I visit my family."
+      },
+      {
+        "title": "Meses del año",
+        "type": "text",
+        "data": "My birthday is in January.\n\nFebruary is the shortest month.\n\nIn March the weather starts to get warmer.\n\nApril is a very rainy month.\n\nI travel every year in May.\n\nJune is my favourite month.\n\nIt is very hot in July.\n\nIn August many people go on holiday.\n\nSeptember is the beginning of the school year.\n\nOctober is a beautiful month with many colours.\n\nIt is cold in November.\n\nDecember is the month of Christmas."
+      },
+      {
+        "title": "Estaciones del año",
+        "type": "text",
+        "data": "There are four seasons in a year.\n\nSpring is my favourite season.\n\nIn summer I go to the beach.\n\nIt is very hot in summer.\n\nAutumn is cool and colourful.\n\nThe leaves fall in autumn.\n\nWinter is the coldest season.\n\nIn winter I wear warm clothes.\n\nI like spring because of the flowers.\n\nSummer is good for swimming and travelling."
+      },
+      {
+        "title": "Cumpleaños",
+        "type": "text",
+        "data": "My birthday is on the 15th of March.\n\nToday is the 30th of January.\n\nWhen is your birthday?\n\nHer birthday is on July 22nd.\n\nI was born on the 5th of November 1997.\n\nWhat date is it today?\n\nMy mother’s birthday is in December.\n\nWe celebrate my son’s birthday on the 10th of April.\n\nHis birthday is next week.\n\nMy sister was born on the first of August.\n\nExpresiones útiles extra:\n\nHappy Birthday!\n\nWhen is your mother’s birthday?\n\nI always have a party on my birthday."
+      },
+      {
+        "title": "Sección extra:",
+        "type": "text",
+        "data": "Today is the fifteenth of March. It is my birthday. I always wake up early in the morning and\nhave breakfast at eight o’clock. Yesterday was my last day at work last month.\n\nTomorrow is the twenty-first of June. It is the first day of summer. I usually get up at seven in\nthe morning and go to bed at midnight.\n\nLast week I had a doctor’s appointment on the tenth of April. It was in the afternoon at three\no’clock. The day after tomorrow I have another appointment in the morning.\n\nMy sister’s birthday is on the thirty-first of December. She always celebrates it at night. Last\nmonth she turned twenty-five years old.\n\nEvery day I wake up at half past six in the morning. I have breakfast at seven o’clock and I\nusually finish work at midday.\n\nNext week is very important for me. On the fifth of May I have an English exam in the\nafternoon. I need to study hard every evening.\n\nYesterday was the third of February. It was a very cold day. I stayed at home all day and\nwent to bed early at night.\n\nMy mother’s birthday is on the twenty-first of July. We always have a family dinner in the\nevening. Last year we celebrated it at a nice restaurant.\n\nToday is the first of January. It is New Year’s Day. Many people celebrate at midnight with\ntheir family and friends.\n\nThe day after tomorrow is the fifteenth of August. I am going to the beach with my friends in\nthe morning. We plan to return home in the evening.\n\nLast month I visited my grandparents on the tenth of March. I arrived at their house at noon\nand stayed until late in the afternoon.\n\nI usually go to English class three times a week in the evening. Next week my teacher is\ngoing to give us a test on the fourth of April.\nMy son was born on the fifth of November at midnight. Today he is celebrating his fourth\nbirthday. We are having a small party in the afternoon.\n\nYesterday I woke up very late at ten o’clock in the morning. It was the second day of my\nholidays last week.\n\nOn the thirty-first of October we celebrate Halloween. Children usually go out at night to ask\nfor candy.\n\nNext week my brother is arriving from Spain on the twenty-first of May. His flight arrives at\nmidday, so I will pick him up at the airport in the afternoon.\n\nToday is the tenth of September. It is the first day of school for my daughter. She starts\nclasses at seven thirty in the morning.\n\nLast week I had a job interview on the fifteenth of March in the morning. I arrived early at\nnine o’clock and everything went well.\n\nMy wedding anniversary is on the third of August. Every year we go out for dinner in the\nevening to celebrate.\n\nTomorrow is the fourth of July. It is an important holiday in the United States. Many American\npeople celebrate it with fireworks at night."
+      }
+    ],
+    "completed": false
+  },
+  {
+    "id": "pronombres",
+    "title": "3)Pronombres",
+    "content": [
+      {
+        "title": "Personales",
+        "type": "text",
+        "data": "I am from Colombia.\nYou are my best friend.\nHe is very tall.\nShe is beautiful.\nIt is my house.\nWe are happy.\nThey are my family."
+      },
+      {
+        "title": "Posesivos",
+        "type": "text",
+        "data": "My name is Andres.\nYour book is on the table.\nHis car is black.\nHer hair is long.\nIts color is blue.\nOur house is big.\nTheir children are friendly.\n\nDemostrativo\nThis is my phone.\nThat is my teacher.\nThese are my shoes.\nThose are my parents."
+      },
+      {
+        "title": "Objeto Pronombre",
+        "type": "text",
+        "data": "Can you help me?\nI like you.\nI know him.\nI love her.\nI don’t like it.\nShe is teaching us English.\nI see them every day."
+      },
+      {
+        "title": "Interrogativo",
+        "type": "text",
+        "data": "Who is she?\nWhat is your name?\nWhere do you live?\nWhen is your birthday?\nHow are you?\nWhose bag is this?"
+      },
+      {
+        "title": "Indefinido",
+        "type": "text",
+        "data": "I want to eat something.\nShe needs something to drink.\nI know nothing about football.\nHe has nothing in his pockets.\nShe knows everything.\nThey like everything here.\nEveryone is happy today.\nEveryone loves music.\nSomebody is at the door.\nSomeone called me last night.\nNobody is in the classroom.\nNo one understands the question."
+      },
+      {
+        "title": "Sección extra:",
+        "type": "text",
+        "data": "Excuse me, whose bag is this? Somebody left it on the table. I don’t know whose it is, but it\nlooks expensive.\n\nThis is my sister’s house. “Whose car is parked outside?” “It’s my father’s car. Someone\ncame to visit us last night.”\n\n“Whose phone is ringing?” “It’s mine, sorry.” Nobody answers the phone when I’m busy.\nIn my classroom, somebody always forgets their books. Today the teacher asked, “Whose\nnotebook is this on the floor?”\n\n“Whose jacket is on the chair?” “I think it’s John’s. Someone left it here after the meeting\nyesterday.”\n\nMy mother is looking for her keys. “Has anybody seen my keys?” she asks. Nobody knows\nwhere they are.\n\n“Whose birthday is on the fifteenth of March?” “It’s my cousin’s birthday. Someone is having\na party for her.”\n\nI found a wallet in the street. “Whose wallet is this?” I asked. Nobody answered, so I took it\nto the police station.\n\n“Whose children are playing in the garden?” “They are my neighbours’ children. Someone is\nhaving a birthday party today.”\n\nAt work, somebody always drinks my coffee. “Whose cup is this?” I asked. No one answered\nme.\n\n“Is this anybody’s pencil?” “No, it’s not mine.” Nobody knows who left it on my desk.\nThis is a photo of my family. “Whose baby is this?” my friend asked. “It’s my sister’s baby,” I\nanswered.\n\n“Has anyone seen my glasses?” “Sorry, nobody has seen them.” I always lose things at\nhome.\n\n“Whose turn is it to clean the kitchen?” “I don’t know. Somebody forgot to make the schedule\nthis week.”\n\nMy grandmother asked, “Whose shoes are these by the door?” “They’re mine, Grandma.\nSorry!”\n\nIn the office, someone is always using my computer. “Whose email is open?” I asked.\nNobody said anything.\n\n“Whose homework is missing?” the teacher asked. “Nobody did the homework last week,”\nanswered one student.\n\n“Is this anybody’s water bottle?” “Yes, it’s mine. Thank you!” Somebody always leaves their\nthings in the classroom.\n\nWe are looking at old family photos. “Whose wedding is this?” “It’s my parents’ wedding.\nThey got married thirty years ago.”\n\n“Can anybody help me? I can’t find my keys.” “Sorry, nobody saw them. Maybe someone\ntook them by mistake.”"
+      }
+    ],
+    "completed": false
+  },
+  {
+    "id": "descripciones",
+    "title": "4)Descripciones",
+    "content": [
+      {
+        "title": "Describiendo personas",
+        "type": "text",
+        "data": "This is my father. He is 52 years old. He is tall and thin. He has short black hair and brown\neyes. He is a very kind and intelligent man.\n\nThis is my mother. She is 48 years old. She is short and a little heavy. She has long brown\nhair and beautiful green eyes. She is friendly and very patient.\n\nThis is my older brother. He is 28 years old. He is tall and strong. He has short black hair\nand dark eyes. He is funny and very hardworking.\n\nThis is my younger sister. She is 17 years old. She is medium height and slim. She has long\nstraight hair and big brown eyes. She is cheerful and a bit shy.\n\nThis is my best friend. His name is David. He is 25 years old. He is tall and athletic. He has\ncurly brown hair and blue eyes. He is outgoing and very funny.\n\nThis is my grandmother. She is 75 years old. She is short and a little fat. She has white hair\nand kind eyes. She is very sweet and generous.\n\nThis is my teacher. She is 35 years old. She is medium height and slim. She has blonde hair\nand green eyes. She is intelligent and very patient with students.\n\nThis is my cousin. He is 19 years old. He is tall and thin. He has short black hair and wears\nglasses. He is quiet but very friendly.\n\nThis is my neighbour. She is 40 years old. She is short and has a nice smile. She has curly\nred hair and brown eyes. She is energetic and very kind.\n\nThis is my uncle. He is 45 years old. He is medium height and strong. He has short grey hair\nand dark eyes. He is serious but very helpful."
+      },
+      {
+        "title": "Colores y ropa",
+        "type": "text",
+        "data": "My favorite t-shirt is blue and white.\n\nShe is wearing a red dress and black shoes.\n\nHe has a green jacket and brown trousers.\n\nI like my yellow sweater and grey socks.\n\nThe girl is wearing a pink skirt and white sneakers.\n\nMy brother wears an orange hoodie and blue jeans.\n\nToday I have a purple blouse and black pants.\n\nHe is wearing a brown coat and dark blue scarf.\n\nHer new hat is red and her gloves are grey.\n\nI bought a white shirt and navy trousers.\n\nShe likes her light green dress and beige sandals.\n\nMy father wears a black suit and white shirt.\n\nThe baby has a yellow t-shirt and blue shorts.\n\nI’m wearing my favorite pink hoodie and black leggings.\n\nHe has new brown boots and green socks.\n\nMy sister is wearing an orange skirt and white top.\n\nThis purple jacket is very warm and beautiful.\n\nShe always wears red lipstick with her black dress.\n\nI need a grey sweater and blue jeans for tomorrow.\n\nThe boy is wearing a yellow cap and red t-shirt.\n\nMy father, my mother and my older brother live together in a big house, while my younger\nsister and I visit them every weekend.\n\nMy grandfather and my grandmother are 78 and 75 years old, and they love spending time\nwith their grandchildren, especially my son Mateo and my daughter Emma.\n\nMy uncle Pedro, my aunt Ana, and their son Diego (my cousin) always come to our family\nparties with my nephew Lucas and my niece Isabella.\n\nMy brother-in-law David and my sister-in-law Laura are very friendly, and they often visit my\nfather-in-law and mother-in-law on Sundays.\n\nMy son Mateo and my daughter Emma like playing with their cousin Camila, while my\nson-in-law Andrés and my daughter-in-law Sofia help my grandmother in the garden every\nmonth.\n\nDescribiendo la casa y la ciudad\n\nThere is a big living room in my house.\nThere are two bedrooms in my apartment.\nThere is a kitchen next to the dining room.\nThere is a comfortable bed in my room.\nThere are many books on my desk.\nThere is a big window in my bedroom.\nThere are two bathrooms in my house.\nThere is a beautiful garden behind my house.\nThere are many cars in my city.\nThere is a big park near my house.\nThere are tall buildings in the centre of the city.\nThere is a supermarket in front of my building.\nThere are many shops in my neighbourhood.\nThere is a small balcony in my apartment.\nThere are pictures on the walls of my room.\nThere is a television in the living room.\nThere are three chairs and one table in the kitchen.\nThere is a river in the south of my city.\nThere are many restaurants near my house.\nThere is a quiet street behind my building.\nThere is a big patio behind my house.\nThere is a garage next to the house.\nThere is a beautiful garden in front of my house.\nThere are two bedrooms in my apartment.\nThere is a modern kitchen and a dining room.\nThere is a comfortable living room with a big sofa.\nThere is a small bathroom on the first floor.\nThere is a balcony in my bedroom.\nThere are many windows in my room.\nThere is a quiet terrace on the roof.\nThere is a big park near my house.\nThere are many shops in my neighbourhood.\nThere is a supermarket in front of my building.\nThere are tall buildings in the centre of the city.\nThere is a river in the south of my city.\nThere are many restaurants and cafés near my house.\nThere is a cinema and a shopping mall in my city.\nThere are wide streets and avenues in the downtown area.\nThere is a school and a hospital close to my neighbourhood.\nThere is a football field in the park near my house.\n\nSección extra\n\nMy father is tall and thin. He has short black hair, brown eyes and a big nose. He is a serious\nand hardworking man. He usually wears a dark blue suit, a white shirt and a red tie.\n\nMy mother is short and slim. She has long dark hair, beautiful green eyes and small hands.\nShe is very friendly and talkative. Today she is wearing a light blue blouse and a beige skirt.\n\nMy older brother is tall and overweight. He has curly brown hair and big ears. He is funny\nand honest. In summer he likes wearing shorts, trainers and a light green t-shirt.\n\nMy younger sister is short and slim. She has long straight black hair and dark eyes. She is\nshy and quiet. She loves wearing her violet skirt and silver earrings.\n\nMy best friend Lucas is tall and thin. He has short blond hair and blue eyes. He is very nice\nand hardworking. He always wears dark blue jeans, a black jacket and black boots.\n\nMy grandmother is short and a little fat. She has white hair, kind eyes and small hands. She\nis nice and friendly. At night she wears comfortable pyjamas and warm socks.\n\nMy English teacher is tall and slim. She has long red hair and green eyes. She is serious but\nvery honest. She often wears a black coat, high heels and a beige scarf.\n\nMy neighbour Mr. Garcia is short and overweight. He has grey hair and a big mouth. He is\ntalkative and funny. He likes wearing a brown jacket and black trousers.\n\nMy cousin Sofia is tall and slim. She has long light brown hair and beautiful dark eyes. She is\nfriendly and hardworking. She loves wearing light green leggings and white trainers.\n\nMy uncle Pedro is tall and thin. He has short black hair and big hands. He is quiet and\nhonest. He usually wears a dark suit, a white shirt and a gold tie.\nMy little brother is short and thin. He has messy brown hair and big brown eyes. He is very\nfunny and lazy. He likes wearing blue shorts and his favourite trainers.\n\nMy aunt Laura is slim and beautiful. She has long black hair and a small nose. She is\nfriendly and talkative. She often wears a violet blouse, a black skirt and high heels.\n\nMy grandfather is short and a little overweight. He has white hair and kind eyes. He is\nserious and hardworking. In winter he wears a warm coat, gloves and a grey scarf.\n\nMy friend Emma is tall and slim. She has long curly hair and blue eyes. She is nice and\nhonest. She likes wearing dark green leggings and silver jewellery.\n\nMy boss is tall and overweight. He has short hair and small ears. He is serious and\nhardworking. He always wears an expensive black suit and a red tie.\n\nMy neighbour’s daughter is short and thin. She has long straight hair and big brown eyes.\nShe is shy but very friendly. She loves wearing pink flip-flops and light blue shorts.\n\nMy sister-in-law is slim and beautiful. She has dark hair and green eyes. She is talkative and\nfunny. She usually wears a beige coat and black boots in winter.\n\nMy Japanese friend Hiroshi is short and thin. He has black hair and dark eyes. He is quiet\nand honest. He likes wearing comfortable clothes and white trainers.\n\nMy mother-in-law is short and overweight. She has short grey hair and a nice smile. She is\nfriendly and hardworking. She often wears a dark green blouse and a long skirt.\n\nMy classmate Anna is tall and slim. She has long blonde hair, blue eyes and long legs. She\nis nice and talkative. She likes wearing a light blue jacket, jeans and black boots."
+      }
+    ],
+    "completed": false
+  },
+  {
+    "id": "rutina",
+    "title": "5)Rutina diaria y hábitos",
+    "content": [
+      {
+        "title": "Rutinas",
+        "type": "text",
+        "data": "Every day I wake up at 6:30 in the morning. I get up, go to the bathroom, brush my teeth and\ntake a shower. Then I get dressed and have breakfast with coffee and eggs. After that, I go\nto work by bus. In the afternoon I come back home, have lunch and rest a little. In the\nevening I exercise, have dinner with my family and watch TV. Finally, I go to bed at 11\no’clock.\n\nMy sister wakes up at 7:00. She washes her face, brushes her hair and puts on her clothes.\nShe has breakfast quickly and then goes to university. When she returns home, she studies\nfor two hours, has dinner and talks with us. She usually reads a book before she goes to\nsleep at midnight.\n\nI usually get up at 6:00. First, I make my bed, then I brush my teeth and take a shower. I\nhave a big breakfast with fruit and bread. After breakfast I go to the office. In the evening I\ncook dinner, watch the news and relax on the sofa. I always go to bed at 10:30.\n\nMy brother wakes up at 5:45. He does exercise, takes a shower and has coffee. He leaves\nhome at 7:00 to go to work. When he comes back, he plays with his children, has dinner and\nhelps them with homework. He goes to bed around 11:00.\n\nEvery morning I wake up at 7:15. I wash my face, get dressed and have breakfast with my\nfamily. Then I go to my English classes. In the afternoon I return home, have lunch and\nstudy. Later I go for a walk, have dinner and watch videos on my phone. I usually go to bed\nat 11:00.\n\nMy mother gets up at 6:00 every day. She prepares breakfast for everyone, takes a shower\nand gets dressed. She works in the morning and comes back home at 3:00 pm. In the\nafternoon she cleans the house, cooks dinner and watches her favourite TV shows. She\ngoes to bed at 10:00.\n\nI wake up at 6:30, brush my teeth and exercise for twenty minutes. Then I have a healthy\nbreakfast and go to work by car. After work I go to the gym, come home, have dinner and\ntalk with my wife. I usually read a little before I go to sleep at 11:30.\n\nMy father wakes up very early at 5:30. He drinks coffee, reads the newspaper and gets\nready for work. He returns home at 5:00 pm, rests, has dinner and watches football on TV.\nHe always goes to bed at 10:00.\n\nEvery day I get up at 7:00. I take a long shower, have breakfast and check my phone. Then I\ngo to university. When I come back I have lunch, do my homework and meet my friends. In\nthe evening I have dinner and relax. I go to bed around 11:45.\n\nShe wakes up at 6:45, makes coffee and prepares breakfast for her children. After sending\nthem to school, she goes to work. In the afternoon she picks them up, helps with homework,\ncooks dinner and spends time with the family. She goes to bed at 10:30.\n\nEvery morning I wake up at 6:20 when my alarm rings. I stay in bed for five minutes, then I\nget up, make my bed and open the window. I go to the bathroom, brush my teeth, wash my\nface and take a hot shower. After that, I get dressed, comb my hair and have a big breakfast\nwith coffee, toast, eggs and fruit.\n\nMy brother wakes up at 5:50. He turns off his alarm, stretches his body and gets out of bed.\nHe brushes his teeth, shaves his face and takes a quick shower. Then he puts on his work\nclothes and has breakfast with black coffee and pancakes. He leaves the house at 7:00.\nI usually wake up at 7:00. First, I drink a glass of water, then I do some stretching exercises\nfor ten minutes. After that, I take a shower, get dressed and put on my shoes. I prepare and\neat a healthy breakfast with oatmeal, banana and orange juice before going to work.\n\nShe wakes up at 6:30, kisses her husband and gets up quietly. She washes her face with\ncold water, brushes her teeth and does her skincare routine. Then she chooses her clothes,\ndoes her hair and makeup, and has breakfast with tea and avocado toast.\n\nEvery day my father wakes up at 5:30. He prays for a few minutes, makes his bed, brushes\nhis teeth and takes a shower. Afterwards, he drinks coffee while reading the news on his\nphone and eats eggs with bread for breakfast. He gets ready and leaves home very early.\n\nI wake up at 6:45. I turn on the light, check my phone and get up slowly. I go to the bathroom\nto brush my teeth and have a long shower. Then I iron my clothes, get dressed and sit down\nto have a calm breakfast with cereal, milk and fresh fruit.\n\nMy sister wakes up at 7:10. She stays under the blanket for a while, then gets up, opens the\ncurtains and makes her bed. She washes her face, puts on moisturizer, brushes her long\nhair and gets dressed. She always has a quick breakfast with yogurt and coffee.\n\nHe wakes up at 6:00 sharp. He does morning exercises for fifteen minutes, takes a cold\nshower, shaves and gets dressed in his suit. After that, he prepares a strong coffee and eats\na full breakfast with ham, cheese and scrambled eggs.\n\nEvery morning I wake up at 6:15. I get up immediately, drink water, brush my teeth and take\na shower with music. Then I choose my outfit for the day, style my hair and have breakfast\nwhile listening to the news. I usually eat toast with butter and drink orange juice.\n\nMy mother wakes up at 5:45 to prepare breakfast for the family. She washes her face,\nbrushes her teeth, gets dressed and makes coffee. She cooks eggs, warms the milk and\nsets the table before everyone else wakes up. She only sits to eat breakfast after everyone\nis ready."
+      },
+      {
+        "title": "Adverbios de frecuencia",
+        "type": "text",
+        "data": "I always wake up at 6:30 in the morning. I usually make my bed and then I brush my teeth\nand take a shower. I sometimes have eggs for breakfast, but I never drink coffee.\n\nMy brother usually wakes up at 7:00. He always does some exercise, takes a shower and\ngets dressed. He sometimes eats a big breakfast, but he never leaves home without\nchecking his phone.\n\nShe always wakes up early at 6:00. She usually washes her face, brushes her hair and puts\non makeup. She sometimes listens to music while having breakfast, but she never watches\nTV in the morning.\nEvery day I usually get up at 6:45. I always brush my teeth and take a shower. I sometimes\nhave fruit for breakfast and I never go to work without having something to eat.\n\nMy mother always wakes up at 5:45. She usually prepares breakfast for everyone and then\nshe takes a shower. She sometimes drinks tea, but she never eats heavy food in the\nmorning.\n\nHe usually wakes up at 6:15. He always stretches his body, brushes his teeth and takes a\nquick shower. He sometimes reads the news while having breakfast, but he never spends\ntoo much time on his phone.\n\nI always wake up at 7:00. I usually make coffee and have toast with avocado. I sometimes\ngo for a short walk before work, but I never skip breakfast.\n\nMy sister usually gets up at 7:20. She always takes a long shower and does her skincare\nroutine. She sometimes has cereal for breakfast and she never leaves the house with wet\nhair.\n\nMy father always wakes up very early. He usually drinks black coffee and reads the\nnewspaper. He sometimes goes for a run, but he never eats sweets in the morning.\n\nWe usually wake up at 6:30. We always brush our teeth and get dressed quickly. We\nsometimes have a big family breakfast together, but we never use our phones at the table.\n\nShe always wakes up at 6:50. She usually listens to podcasts while she gets ready. She\nsometimes has yogurt and fruit, but she never forgets to drink water in the morning.\n\nI usually wake up at 7:10. I always make my bed and organize my room before breakfast. I\nsometimes eat eggs and I never start my day without planning what I need to do.\n\nMy best friend always wakes up late at 7:30. He usually takes a very fast shower and runs to\ncatch the bus. He sometimes skips breakfast, but he never misses his morning coffee.\n\nEvery morning I usually get up at 6:25. I always wash my face with cold water and then I\nhave a healthy breakfast. I sometimes check my emails, but I never work before 8 o’clock.\n\nThey usually wake up at 6:00. They always exercise together for twenty minutes and then\ntake a shower. They sometimes have pancakes on weekends, but they never eat fast food\nfor breakfast.\n\nMy cousin always wakes up at 6:40. She usually styles her hair carefully and chooses her\nclothes the night before. She sometimes has oatmeal and she never leaves without saying\ngoodbye to her family.\n\nI usually wake up at 7:05. I always drink a glass of water first and then brush my teeth. I\nsometimes listen to the radio while having breakfast and I never rush in the morning.\n\nHe always wakes up at 5:55. He usually prepares everything the night before so his morning\nis calm. He sometimes reads a book while drinking coffee, but he never watches the news.\n\nMy girlfriend usually wakes up at 7:15. She always does her skincare routine and then has\nbreakfast. She sometimes eats bananas and yogurt, but she never drinks coffee because it\nmakes her nervous.\n\nWe always wake up at 6:30 on weekdays. We usually have a calm morning routine and eat\nbreakfast together. We sometimes talk about our plans for the day, but we never argue in the\nmorning.\n\nGustos y disgustos\n\nI like learning English because it is very useful. I like watching movies in English and\nlistening to songs. However, I don’t like waking up early in the morning and I don’t like eating\nvegetables every day.\n\nMy sister likes dancing and listening to pop music. She likes wearing colourful clothes and\ntaking photos. She doesn’t like cold weather and she doesn’t like studying mathematics.\n\nI like playing football with my friends at the weekend. I also like eating pizza and drinking\ncold juice. On the other hand, I don’t like running long distances and I don’t like horror\nmovies.\n\nMy mother likes cooking traditional Colombian food. She likes spending time with the family\nand watching romantic TV shows. She doesn’t like loud music and she doesn’t like messy\nrooms.\n\nHe likes travelling to new places and meeting new people. He likes taking photos and trying\ndifferent kinds of food. However, he doesn’t like waiting in long lines and he doesn’t like\nwaking up very early.\n\nI like reading books in my free time, especially adventure stories. I like sunny days and going\nto the beach. I don’t like rainy days because I can’t go outside, and I don’t like eating spicy\nfood.\n\nMy best friend likes playing video games and watching football matches. He likes wearing\nsports clothes every day. He doesn’t like doing homework and he doesn’t like eating fish.\n\nShe likes animals a lot, especially dogs and cats. She likes walking in the park and taking\ncare of plants. She doesn’t like crowded places and she doesn’t like fast food.\n\nWe like spending time together as a family. We like eating ice cream and watching comedy\nmovies. We don’t like traffic in the city and we don’t like people who are rude.\n\nMy father likes working in the garden and repairing things at home. He likes drinking black\ncoffee in the morning. He doesn’t like using the phone too much and he doesn’t like modern\nmusic."
+      },
+      {
+        "title": "Sección extra:",
+        "type": "text",
+        "data": "Every day I wake up at six thirty in the morning. I get up, take a shower, get dressed and\ncomb my hair. In the afternoon I do housework and wash the dishes. At night I cook dinner,\nrelax and read a book. I usually go to bed at eleven o’clock and fall asleep quickly.\n\nMy mother wakes up very early. She gets up, has a shower, puts on makeup and gets\ndressed. She always cleans the house in the morning. In the evening she cooks and\nsometimes checks social media before she goes to bed.\nMy brother usually wakes up at seven o’clock. He gets up, takes a shower, shaves and gets\ndressed. After university he does homework and then helps with housework. He never goes\nto bed before midnight.\n\nMy sister wakes up at six forty-five. She gets up, has a shower, puts on makeup and combs\nher long hair. In the afternoon she goes shopping and cleans the house. At night she\nrelaxes, checks social media and falls asleep while reading a book.\n\nI wake up at seven in the morning. I get up, take a shower and get dressed quickly. After\nwork I do housework and wash the dishes. In the evening I cook, relax and sometimes read\na book before I go to bed.\n\nMy father wakes up at five thirty. He gets up, has a shower, shaves and gets dressed. He\nnever does housework. In the evening he relaxes, watches TV and usually falls asleep on\nthe sofa.\n\nMy best friend is a student. She wakes up at seven fifteen, gets up, takes a shower and puts\non makeup. After classes she does homework and sometimes goes shopping. She always\nchecks social media before she goes to bed.\n\nEvery morning my wife wakes up at six o’clock. She gets up, has a shower, combs her hair\nand gets dressed. In the afternoon she cleans the house and cooks. At night she relaxes\nand falls asleep early.\n\nMy little brother wakes up late. He gets up, takes a shower and gets dressed. He never\nshaves yet. After school he does homework, then he plays and checks social media. He\ngoes to bed at ten o’clock.\n\nI usually wake up at six twenty. I get up, have a shower, comb my hair and get dressed. In\nthe afternoon I go shopping and wash the dishes. At night I cook, relax and read a book\nbefore I fall asleep.\n\nMy grandmother wakes up at six in the morning. She gets up slowly, has a shower and gets\ndressed. She sometimes does housework in the afternoon. At night she relaxes, reads a\nbook and falls asleep early.\n\nMy teacher wakes up at six forty. She gets up, takes a shower, puts on makeup and combs\nher hair. After work she cleans the house and cooks. She usually relaxes and checks social\nmedia before going to bed.\n\nMy cousin is a worker. He wakes up at five fifty, gets up, has a shower and shaves. In the\nevening he does housework and washes the dishes. He never falls asleep before midnight.\nEvery day I wake up at seven. I get up, take a shower, get dressed and comb my hair. After\nuniversity I do homework and sometimes go shopping. At night I cook, relax and check\nsocial media.\n\nMy sister-in-law wakes up at six thirty. She gets up, has a shower, puts on makeup and gets\ndressed. She always cleans the house and cooks in the afternoon. She relaxes and falls\nasleep while reading.\n\nMy best friend Pablo wakes up at seven ten. He gets up, takes a shower, shaves and gets\ndressed. In the evening he does homework and washes the dishes. He usually relaxes and\nchecks social media at night.\n\nMy mother-in-law wakes up early. She gets up, has a shower and combs her hair. She does\na lot of housework and cooks every day. At night she relaxes and goes to bed at ten o’clock.\n\nI wake up at six forty-five. I get up, take a shower, get dressed and comb my hair. After work\nI go shopping, clean the house and wash the dishes. I relax, read a book and fall asleep\nhappily.\n\nMy young brother wakes up at seven thirty. He gets up quickly, has a shower and gets\ndressed. He does homework in the afternoon and sometimes helps cook. He always checks\nsocial media before he goes to bed.\n\nMy husband wakes up at six o’clock. He gets up, takes a shower, shaves and gets dressed.\nIn the evening he helps clean the house and wash the dishes. He relaxes for a while and\nusually falls asleep while watching TV."
+      }
+    ],
+    "completed": false
+  },
+  {
+    "id": "situaciones",
+    "title": "6)Situaciones cotidianas",
+    "content": [
+      {
+        "title": "Ordenando comida y bebidas",
+        "type": "text",
+        "data": "I would like a grilled chicken with rice and a coke, please.\nCan I have a cappuccino and a croissant, please?\nI want a cheeseburger, fries and a large soda, please.\nA latte and a blueberry muffin, please.\nTwo beers and some chicken wings, please.\nI’d like two croissants and a coffee to go, please.\nCan I have two scoops of chocolate ice cream, please?\nI want fried chicken with rice and a juice, please.\nOne taco with meat and a soda, please.\nI’d like the pasta with chicken and a glass of water, please.\nA large pepperoni pizza and two colas, please.\nI want a salmon sushi roll and green tea, please.\nI’d like a ham and cheese sandwich and an orange juice, please.\nA coffee and a sandwich to go, please.\nCan I have a chicken sandwich and a bottle of water, please?\nI want noodles and a lemonade, please.\nTwo piña coladas and some fries, please.\nA whiskey with coke, please.\nOne large popcorn and a coke, please.\nA protein shake and a tuna sandwich, please.\nI’d like a coffee and a cheese sandwich, please.\nA soup and an apple juice, please.\nA tea and a piece of cake, please.\nOne hot dog and a soda, please.\nI want a burger combo with fries and a drink, please.\n\n“Table for two, please,” I say. “Can I see the menu?” The waiter gives us the menu. I’m\nallergic to nuts, so I ask carefully. At the end I say, “Can I have the bill, please?” I leave a\nsmall tip and take the rest away to go.\n\nWe sit down and say, “Table for four, please.” The waiter asks what we want to drink. “Can I\nsee the menu?” my friend says. I’m allergic to seafood, so I choose pasta. We ask for\ntakeaway for the extra food.\n\n“Excuse me, can I see the menu?” I ask. I order a sandwich and juice. At the end I say, “Can\nI have the bill, please?” I pay and leave a tip. The waiter puts the rest in a bag for takeaway.\n\nWe go to a restaurant and ask for “Table for two, please.” “Can I see the menu?” my wife\nsays. She is allergic to milk, so she asks the waiter many questions. We pay the bill and\nleave a good tip.\n\n“Table for four, please,” my father says. We sit down and look at the menu. “I’m allergic to\neggs,” my sister tells the waiter. We enjoy the food and ask for the bill at the end.\n\nI go to a fast-food restaurant and say, “Can I see the menu?” I order a burger and fries. “Is\nthis to go?” the girl asks. “Yes, takeaway, please,” I answer.\n\n“Table for two, please.” “Can I see the menu?” I ask. I’m allergic to gluten, so I choose\ncarefully. After eating I ask for the bill and leave a tip.\n\nMy friends and I sit at the table. “Can I see the menu?” one friend asks. Nobody is allergic to\nanything, so we order freely. We pay the bill and say thank you.\n\n“I’d like table for four, please.” The waiter brings the menu. “I’m allergic to fish,” my mother\nsays. We eat well and ask for the bill with the tip.\n\nI go to a café and say, “Can I see the menu?” I order coffee and cake. At the end I pay the\nbill and take the rest home as takeaway."
+      },
+      {
+        "title": "De compras",
+        "type": "text",
+        "data": "How much is this blue t-shirt?\nI’d like a large red dress, please.\nHow much are these black shoes?\nDo you have this jacket in medium size?\nThe white sneakers are fifty dollars.\nI need a small black bag, please.\nHow much does this green sweater cost?\nI’m looking for a pair of size 42 blue jeans.\nThese brown boots are very expensive.\nDo you have this shirt in extra large?\nHow much is the yellow cap?\nI want to buy two medium grey hoodies.\nIs this purple blouse on sale?\nThese trousers are too small. Do you have them in large?\nHow much are the orange socks?\nI like the navy blue coat. What size is it?\nThe pink skirt costs twenty-five dollars.\nDo you have this t-shirt in black and in size medium?\nHow much is one kilo of these red apples?\nI’d like to try the dark green jacket in large size, please.\n\n“How much does it cost?” I ask the shop assistant. “Can I try it on?” The trousers are too\nsmall, so I say, “Do you have it in another colour?” Finally I say, “It’s perfect. I’ll take it.”\n\nI see a nice jacket. “What’s the price?” I ask. I try it on but it’s too big. “Do you have it in a\nsmaller size?” The jacket is expensive, but I like it, so I say, “I’ll take it.”\n\n“How much does this blouse cost?” I ask. “Can I try it on?” It’s too small. “Do you have it in\nanother colour?” The beige one is nice, so I buy it.\n\nI like the trainers. “What’s the price?” I ask. They are a bit expensive, but I try them on and\nthey fit well. “I’ll take them,” I say happily.\n\n“Can I try on this coat?” I ask. It’s too big. “Do you have it in a smaller size?” The assistant\nhelps me. Finally I say, “It’s good. I’ll take it.”\n\nI see beautiful high heels. “How much does it cost?” I ask. They are expensive but very nice.\n“I’ll take them,” I decide.\n\n“What’s the price of this scarf?” I ask. I try it on and it’s perfect. “Do you have it in dark\ngreen?” I buy two colours.\n\nThe shorts are nice. “Can I try them on?” They are too small. “Do you have them in a larger\nsize?” I finally find the right ones and say, “I’ll take them.”\n\n“How much does this suit cost?” my father asks. It’s a bit expensive, but he tries it on. “It fits\nwell. I’ll take it,” he says.\n\nI see a silver belt. “What’s the price?” I ask. It’s not too expensive. I try it on and say, “I’ll take\nit, please.”"
+      },
+      {
+        "title": "Preguntando y dando direcciones",
+        "type": "text",
+        "data": "Excuse me, where is the nearest supermarket? Go straight ahead for two blocks, turn left at\nthe traffic lights, and the supermarket is on your right next to the bank.\n\nHow do I get to the train station from here? Turn right at the corner and go straight. After\nthree blocks you will see the station on your left. It’s a big white building.\n\nI’m looking for the post office. Go straight on this street, turn right at the pharmacy, and the\npost office is opposite the park.\n\nWhere is the nearest hospital, please? Walk two blocks straight ahead, turn left, and you will\nsee the hospital on your right. It’s a very big building.\n\nExcuse me, how can I get to the museum? Go straight and turn right at the traffic lights. The\nmuseum is next to the big church. You can’t miss it.\n\nI need to find the bathroom in this shopping mall. Go straight and turn left at the escalators.\nThe bathrooms are on the right, next to the food court.\n\nWhere is the closest bank? Turn left here and go straight for one block. The bank is on the\ncorner, opposite the cinema.\n\nHow do I get to the city centre from here? Go straight ahead, turn right at the second street,\nand continue walking. The city centre is about ten minutes away.\n\nExcuse me, where is the entrance to the park? Walk straight and turn left after the fountain.\nThe entrance is right there.\n\nI’m looking for the bus stop. Go straight on this road and turn right at the traffic lights. The\nbus stop is in front of the school.\n\nHow can I get to the hotel “Central”? Turn left at the corner and go straight for three blocks.\nThe hotel is on your left, next to a coffee shop.\n\nWhere is the nearest pharmacy? It’s very close. Go straight and turn right. The pharmacy is\non the left, beside the supermarket.\n\nExcuse me, I need to find the police station. Go straight ahead, turn left at the big statue,\nand the police station will be on your right.\n\nHow do I get to the beach from here? Walk straight for five blocks, then turn right and\ncontinue walking. The beach is at the end of the street.\nWhere is room number 305 in this hotel? Take the elevator to the third floor, turn right, and\nroom 305 is the third door on your left.\n\nI’m lost. How do I get to the shopping mall? Turn around and go straight. At the big\nintersection turn left, and the shopping mall is on your right.\n\nExcuse me, where is the taxi rank? Go straight ahead and turn right at the corner. The taxi\nrank is next to the train station.\n\nHow can I get to the restaurant “La Bella”? Walk straight on this avenue, turn left after the\nbridge, and the restaurant is on your right.\n\nWhere is the exit of this building? Go straight down the corridor, turn left at the end, and the\nexit is on your right.\n\nExcuse me, I’m looking for the main square. Go straight for two blocks, turn right, and\ncontinue walking. The main square is in front of the cathedral.\n\n“Excuse me, how far is the museum?” “Go straight ahead and turn right at the traffic lights.\nIt’s near, only five minutes from here.”\n\n“Where is the train station?” I ask. “Go straight ahead, turn left at the corner. The station is\nopposite the bank.”\n\n“How do I get to the hospital?” “Turn right at the traffic lights, go straight ahead, and it’s on\nthe left, next to the park.”\n\n“Excuse me, where is the nearest supermarket?” “It’s not far. Go straight ahead, turn left at\nthe corner. It’s behind the cinema.”\n\n“How far is the beach?” “It’s a bit far. Go straight ahead, turn right at the traffic lights, then go\nbetween the two big buildings.”\n\n“Where is the post office?” “It’s near. Turn left here, go straight ahead, and it’s on the right,\nopposite the school.”\n\n“Can you tell me where the hotel is?” “Go straight ahead and turn right at the corner. The\nhotel is behind the shopping mall.”\n\n“How far is the cinema?” “It’s very near. Go straight ahead and it’s on the left, next to the\npharmacy.”\n\n“Where is the bus stop?” “Turn right at the traffic lights and go straight ahead. The bus stop\nis in front of the church.”\n\n“Excuse me, how do I get to the park?” “Go straight ahead, turn left at the corner, and the\npark is on your right, between the school and the library.”"
+      },
+      {
+        "title": "Hablando sobre el tiempo",
+        "type": "text",
+        "data": "Today is a beautiful sunny day. The sky is blue and there are no clouds. It is warm and\nperfect to go to the park or walk around the city.\n\nIt is raining heavily today. The weather is cold and wet. I don’t like this weather because I\ncan’t go out and I have to stay at home.\n\nIt is very hot this afternoon. The temperature is thirty-five degrees and the sun is very strong.\nI feel uncomfortable and I just want to stay inside with the air conditioning.\n\nThis morning it is cloudy and cool. It is not raining yet, but I think it is going to rain later. I’m\nwearing a light jacket because the weather is fresh.\n\nIn winter it is usually very cold in my city. Sometimes it snows and everything becomes\nwhite. I like drinking hot chocolate when the weather is like this.\n\nIt is a windy day today. The wind is strong and it moves the trees. I like the fresh air, but it is\ndifficult to walk with this strong wind.\n\nThe weather is perfect today. It is sunny but not too hot. This is my favourite kind of weather\nbecause I can do many outdoor activities.\n\nIt is foggy this morning. I can’t see the buildings clearly. The weather is cold and humid, so I\nhave to drive very carefully.\n\nIn summer my city is extremely hot and humid. The temperature can reach forty degrees.\nBecause of this, many people go to the beach or stay indoors.\n\nIt rained all day yesterday. The streets were wet and there were many puddles. Today the\nweather is better and the sun is shining again.\n\nAutumn in my country is cool and pleasant. The leaves change colour and the weather is\nnice for walking. I enjoy this season very much.\n\nIt is snowing right now. Everything is white and beautiful. The temperature is below zero, so I\nam wearing my warmest coat and gloves.\n\nThe weather forecast says it will be sunny and warm tomorrow. I am happy because I can go\nhiking with my friends this weekend.\n\nToday is a stormy day. There is thunder and lightning. I don’t like this weather because it\nmakes me feel nervous.\n\nIn spring the weather is mild and the flowers start to bloom. It rains sometimes but the days\nare longer and warmer.\n\nIt is very cold outside today. The temperature is only five degrees. I don’t want to leave the\nhouse because I hate this freezing weather.\n\nThe weather is changing very fast. It was sunny in the morning, but now it is cloudy and\nstarting to rain. I always carry an umbrella with me.\n\nYesterday it was a lovely sunny day with a clear blue sky. I spent the whole afternoon\noutside enjoying the good weather.\n\nIn my city the weather is very hot and dry during the day, but at night it becomes cool and\npleasant. I like the contrast between day and night.\n\nThe weather is terrible today. It is raining heavily and it is very windy. All my plans for today\nare cancelled because of this bad weather.\n\nWhat’s the weather like today? It’s warm and sunny. I love this weather.\n\nIt’s cool this morning. I think I need a jacket. What’s the weather like in your city?\n\nIt’s freezing today! The temperature is very low and I don’t want to go outside.\n\nIt’s humid and hot. I feel tired because of the weather. What’s the weather like tomorrow?\n\nIt’s dry and sunny. Perfect weather to go to the beach.\n\nLook at the sky! There is a beautiful rainbow after the thunderstorm.\n\nIt’s going to be a big thunderstorm this afternoon. I hope it doesn’t rain too much.\n\nWhat’s the weather like in London? Is it cool or freezing?\n\nIt’s humid and cloudy today. I think it’s going to rain soon.\n\nYesterday it was cool and pleasant, but today it’s warm and sunny again."
+      },
+      {
+        "title": "Haciendo planes",
+        "type": "text",
+        "data": "Would you like to go to the cinema with me this Saturday? There is a new action movie and I\nthink it will be fun. We can meet at 7 o’clock in front of the cinema and have pizza after the\nmovie.\n\nI’m going to the park tomorrow afternoon. Would you like to come with me? We can take a\nwalk, sit on the grass and eat ice cream. It’s going to be a nice sunny day.\n\nHey, I’m planning to go to the beach next weekend. Do you want to join me? We can swim,\nplay volleyball and relax all day. Bring your swimsuit!\n\nWould you like to come to my house for dinner on Friday night? I’m going to cook chicken\nwith rice. My sister and brother will be there too.\nLet’s go shopping this afternoon. There is a big sale at the mall. We can buy some new\nclothes and then have coffee at the food court.\n\nI’m going to celebrate my birthday next Saturday. Would you like to come to my party? We\nwill have music, cake and many friends.\n\nDo you want to play football with us tomorrow morning? We are meeting at 9 o’clock in the\npark. It’s going to be a friendly match.\n\nI’m thinking of going to the mountains next month. Would you like to come with me? We can\nhike and take beautiful photos.\n\nLet’s go out for dinner tonight. There is a new Mexican restaurant near my house. Would you\nlike to try it with me?\n\nMy family is having a barbecue this Sunday. You are invited! We are going to eat grilled meat\nand listen to music in the garden.\n\nWould you like to come to the cinema with us on Friday? We want to watch the new comedy\nmovie. After the movie we can go for a walk.\n\nI’m planning to visit the zoo next weekend. Do you want to come? We can see the animals\nand take lots of pictures.\n\nLet’s meet tomorrow after class. We can go to the coffee shop and study English together for\na while.\n\nI’m going to have a small party at my apartment next Friday night. Would you like to come?\nWe will listen to music and play games.\n\nDo you want to go running with me in the morning? We can meet at 6:30 in the park and\nthen have breakfast together afterwards.\n\nMy friends and I are going to the amusement park on Saturday. Would you like to join us?\nIt’s going to be a very fun day.\n\nWould you like to come to my house to watch the football match tonight? We can order pizza\nand enjoy the game together.\n\nLet’s go to the museum this Sunday morning. There is a new exhibition about history. I think\nit will be interesting.\n\nI’m planning a trip to the lake next month. Do you want to come with me? We can fish, swim\nand camp for two days.\n\nWould you like to go dancing with me on Saturday night? There is a good salsa club\ndowntown. We can have a great time.\n\n“Would you like to go to the cinema on Saturday?” “Sure! I’d love to.”\n\n“Let’s go to the beach next weekend.” “That sounds great! I’d love to go with you.”\n\n“Do you want to come to my house for dinner tonight?” “I’m sorry, I can’t. I have to study.”\n\n“We’re going to the park tomorrow. Would you like to join us?” “Sure! That sounds great!”\n\n“Would you like to go shopping this afternoon?” “I’m sorry, I can’t today. Maybe next time.”\n\n“Let’s have dinner together on Friday.” “I’d love to! Thank you for inviting me.”\n\n“We’re playing football on Sunday. Do you want to come?” “Sure! I’d love to play with you.”\n\n“Would you like to watch a movie tonight?” “I’m sorry, I can’t. I’m very tired. Maybe next\ntime.”\n\n“My family is having a barbecue. You are invited!” “That sounds great! Thank you!”\n\n“Let’s go to the mountains next month.” “Sure! I’d love to. Count me in!”"
+      }
+    ],
+    "completed": false
+  }
+]

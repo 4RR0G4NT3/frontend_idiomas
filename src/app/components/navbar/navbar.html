@@ -1,0 +1,14 @@
+<nav class="navbar">
+  <div class="container navbar-content">
+    <div class="logo" [routerLink]="['/']">
+      <span class="logo-icon">🌍</span>
+      <span class="logo-text">IdiomasApp</span>
+    </div>
+    
+    <div class="nav-actions">
+      <button class="theme-toggle" (click)="toggleDarkMode()" [title]="isDarkMode ? 'Cambiar a modo claro' : 'Cambiar a modo oscuro'">
+        {{ isDarkMode ? '☀️' : '🌙' }}
+      </button>
+    </div>
+  </div>
+</nav>

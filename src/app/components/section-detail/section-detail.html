@@ -1,0 +1,49 @@
+<div class="container" *ngIf="sectionData$ | async as data">
+  <div class="header-section">
+    <button [routerLink]="['/', data.langId, data.levelId, data.lessonId]" class="btn btn-light back-btn">
+      ← Volver a la lección
+    </button>
+    <h1>{{ data.content?.title }}</h1>
+  </div>
+
+  <div class="content-body" *ngIf="data.content">
+    <div [ngSwitch]="data.content.type">
+      <!-- TEXT -->
+      <div *ngSwitchCase="'text'" class="text-sections">
+        <div *ngFor="let paragraph of data.content.data.split('\n\n')" class="paragraph card">
+          {{ paragraph }}
+        </div>
+      </div>
+      
+      <!-- TABLE -->
+      <div class="table-responsive card" *ngSwitchCase="'table'">
+        <table class="content-table">
+          <thead>
+            <tr>
+              <th>Original</th>
+              <th>Traducción</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let row of data.content.data">
+              <td class="original-text">{{ row.left }}</td>
+              <td class="translated-text">{{ row.right }}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!-- LIST -->
+      <div class="card" *ngSwitchCase="'list'">
+        <ul class="content-list">
+          <li *ngFor="let item of data.content.data">{{ item }}</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div *ngIf="!data.content" class="empty-state">
+    <div class="empty-icon">❓</div>
+    <h3>Sección no encontrada</h3>
+  </div>
+</div>

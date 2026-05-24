@@ -1,0 +1,85 @@
+.container {
+  padding: 3rem 1.5rem;
+  max-width: 900px;
+}
+
+.header-section {
+  margin-bottom: 2.5rem;
+}
+
+.back-btn {
+  margin-bottom: 1.5rem;
+}
+
+h1 {
+  font-size: 2rem;
+  color: var(--primary-color);
+  border-bottom: 2px solid var(--light-color);
+  padding-bottom: 1rem;
+}
+
+.text-sections {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.paragraph {
+  line-height: 1.8;
+  font-size: 1.1rem;
+  white-space: pre-wrap;
+  border-left: 4px solid var(--primary-color);
+}
+
+.table-responsive {
+  padding: 0;
+  overflow: hidden;
+}
+
+.content-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.content-table th {
+  background: var(--light-color);
+  text-align: left;
+  padding: 1.25rem 1rem;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.content-table td {
+  padding: 1.25rem 1rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.original-text {
+  font-weight: 600;
+  color: var(--primary-color);
+}
+
+.translated-text {
+  color: var(--text-color);
+}
+
+.content-list {
+  padding-left: 2rem;
+  margin: 0;
+}
+
+.content-list li {
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+}
+
+.empty-state {
+  text-align: center;
+  padding: 5rem 0;
+}
+
+.empty-icon {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}

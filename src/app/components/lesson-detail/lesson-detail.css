@@ -1,0 +1,159 @@
+.container {
+  padding: 3rem 1.5rem;
+  max-width: 800px;
+}
+
+.header-section {
+  margin-bottom: 2.5rem;
+}
+
+.back-btn {
+  margin-bottom: 2rem;
+}
+
+.lesson-header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.lesson-badge {
+  display: inline-block;
+  align-self: flex-start;
+  background: var(--info-color);
+  color: white;
+  padding: 0.2rem 0.75rem;
+  border-radius: var(--radius-full);
+  font-size: 0.8rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.lesson-header h1 {
+  font-size: 2.2rem;
+  margin: 0;
+  line-height: 1.2;
+}
+
+.sections-list {
+  padding: 0;
+  overflow: hidden;
+  margin-bottom: 2rem;
+}
+
+.section-item {
+  display: flex;
+  align-items: center;
+  padding: 1.5rem;
+  border-bottom: 1px solid var(--border-color);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  gap: 1.5rem;
+}
+
+.section-item:last-child {
+  border-bottom: none;
+}
+
+.section-item:hover {
+  background: var(--light-color);
+  padding-left: 1.75rem;
+}
+
+.toggle-container {
+  padding-right: 0.5rem;
+}
+
+.custom-checkbox {
+  width: 24px;
+  height: 24px;
+  border: 2px solid var(--border-color);
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--card-bg);
+  transition: all 0.2s ease;
+  color: white;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
+.custom-checkbox.checked {
+  background: var(--success-color);
+  border-color: var(--success-color);
+}
+
+.custom-checkbox:hover {
+  border-color: var(--primary-color);
+  transform: scale(1.1);
+}
+
+.section-icon {
+  font-size: 1.8rem;
+  background: var(--bg-color);
+  width: 50px;
+  height: 50px;
+  border-radius: var(--radius-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-info {
+  flex-grow: 1;
+}
+
+.section-info h3 {
+  margin: 0 0 0.25rem 0;
+  font-size: 1.15rem;
+  color: var(--text-color);
+}
+
+.section-info p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+.arrow {
+  color: var(--border-color);
+  font-size: 1.2rem;
+}
+
+.section-item:hover .arrow {
+  color: var(--primary-color);
+  transform: translateX(5px);
+}
+
+.completion-banner {
+  background: linear-gradient(135deg, var(--primary-color), #00c6ff);
+  color: white;
+  border-radius: var(--radius-lg);
+  padding: 1.5rem;
+}
+
+.banner-content {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.banner-icon {
+  font-size: 2.5rem;
+}
+
+.banner-text h4 {
+  margin: 0 0 0.25rem 0;
+  color: white;
+}
+
+.banner-text p {
+  margin: 0;
+  opacity: 0.9;
+}
+
+.empty-state {
+  text-align: center;
+  padding: 5rem 0;
+}
