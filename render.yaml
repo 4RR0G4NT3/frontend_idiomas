@@ -4,7 +4,6 @@ services:
     runtime: static
     buildCommand: npm install && npm run build
     publishPath: dist/webapp/browser
-    rootContext: front_idiomas/webapp
     routes:
       - type: rewrite
         source: /*
